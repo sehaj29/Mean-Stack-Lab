@@ -1,0 +1,23 @@
+{
+  "name": "mean_task",
+  "version": "1.0.0",
+  "description": "this is mean first task",
+  "main": " server.js",
+  "scripts": {
+    "test": "first-task"
+  },
+  "keywords": [
+    "mean",
+    "mango",
+    "express",
+    "angularjs",
+    "nodejs"
+  ],
+  "author": "sehaj",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "express": "^4.17.1",
+    "jquery": "^3.6.0"
+  }
+}
